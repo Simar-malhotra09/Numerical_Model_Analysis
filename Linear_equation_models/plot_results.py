@@ -59,6 +59,7 @@ def main():
     )
     plt.legend()
     plt.grid(True)
+    plt.savefig("execution_time_comparison.png")
     plt.show()
 
 
