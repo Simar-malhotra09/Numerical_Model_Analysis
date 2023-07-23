@@ -7,9 +7,9 @@ from matrix_inversion import matrix_inversion
 
 def generate_random_system(size):
     # Helper function to generate random coefficient matrix and constant vector
-    A = np.random.rand(size, size)
+    a = np.random.rand(size, size)
     b = np.random.rand(size)
-    return A, b
+    return a, b
 
 
 def main():
