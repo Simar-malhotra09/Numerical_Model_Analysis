@@ -11,6 +11,7 @@ This repository contains implementations of various matrix factorization techniq
 - `qr_decomposition.py`: Implementation of the QR Decomposition algorithm.
 - `qr_francis.py`: Implementation of the QR Francis algorithm for eigenvalue computation.
 - `hessenberg_reduction.py`: Implementation of Hessenberg Reduction for eigenvalue computation.
+- `power.py`: Implementation of the power method for eigenvalue computation.
 - `test_matrix_factorization.py`: Test cases to verify the correctness of the implemented algorithms.
 - `plot_results.py`: Script to compare the results of different factorization techniques.
 
